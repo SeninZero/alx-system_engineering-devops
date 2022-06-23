@@ -1,2 +1,2 @@
 #!/bin/bash
-chmd -r olleh=hello
+chown --reference=olleh hello
